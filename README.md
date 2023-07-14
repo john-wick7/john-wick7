@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Crypto Currency](https://github.com/john-wick7/CryptoCurrency)
 
-- 🌱 I’m currently learning **Kotlin, Android SDK**
+- 🌱 I’m currently learning **Kotlin, Android SDK, Coroutine**
 
 - 💬 Ask me about **Java, Kotlin, Android, Coroutine, SOLID, Dagger**
 
