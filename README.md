@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Kotlin, Android SDK**
 
-- 💬 Ask me about **Java, Kotlin, Android**
+- 💬 Ask me about **Java, Kotlin, Android, Coroutine, SOLID, Dagger**
 
-- 📫 How to reach me **vladimirkaps1@gmail.com, https://www.linkedin.com/in/vladimir-kapusta/**
+- 📫 How to reach me **vladimirkaps1@gmail.com, https://www.linkedin.com/in/vladimirkapusta/**
 
 - ⚡ Fun fact **I have experience in sales for 7 years**
 
