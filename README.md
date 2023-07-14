@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Kotlin, Android**
 
-- 📫 How to reach me **vladimirkaps1@gmail.com, https://www.linkedin.com/in/vladimir-kapusta-60b296282/**
+- 📫 How to reach me **https://www.linkedin.com/in/vladimir-kapusta-60b296282/**
 
 - ⚡ Fun fact **I have experience in sales for 7 years**
 
